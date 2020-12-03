@@ -1,0 +1,10 @@
+{
+    "local": {
+      "db": {
+        "host": "localhost",
+        "username": "root",
+        "password": "pk@123*1",
+        "database": "testpro"
+      }
+    }
+  }
